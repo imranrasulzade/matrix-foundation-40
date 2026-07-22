@@ -1,4 +1,4 @@
-import java.util.Arrays;
+package oldClasses;
 
 public class Lesson8 {
 
@@ -21,7 +21,16 @@ public class Lesson8 {
     public static void main(String[] args) {
 
 
-        System.out.println(countVowels("Azerbaycan"));
+//        System.out.println(countVowels("Azerbaycan"));
+
+        for (int i = 0; i < 10; i++) {
+            if (i % 2 == 0) {
+                continue;
+            }
+            System.out.println(i);
+        }
+
+
 
     }
 }

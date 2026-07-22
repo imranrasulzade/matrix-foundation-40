@@ -1,3 +1,5 @@
+package oldClasses;
+
 public class Lesson7 {
     static void sayHello() {
         System.out.println("Hello");

@@ -1,3 +1,5 @@
+package oldClasses;
+
 import java.util.Scanner;
 
 public class Second {
